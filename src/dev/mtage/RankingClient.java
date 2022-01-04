@@ -15,8 +15,8 @@ public class RankingClient {
 	}
 	
 	/**
-	 * 获取球员排行榜
-	 * @param rankType 排行榜类型，可能是 "score" 或 "reb"
+	 * get the ranking list of all players
+	 * @param rankType  the type of ranking list, may be "score" or reb
 	 */
 	public List<Player> rankList(String rankType) {
 		// TODO
