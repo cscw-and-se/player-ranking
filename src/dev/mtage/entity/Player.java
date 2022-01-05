@@ -6,12 +6,12 @@ public class Player {
 	private int age;
 	
 	/**
-	 * 比赛平均得分
+	 * Average score per match
 	 */
 	private double scoreAvg;
 	
 	/**
-	 * 生涯场均篮板
+	 * Average rebounds per match
 	 */
 	private double rebAvg;
 	
